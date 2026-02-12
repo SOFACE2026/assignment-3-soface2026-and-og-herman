@@ -1,7 +1,7 @@
 #include "file_logger.hpp"
 #include <fstream>
 #include <iostream>
-// source for file https://www.w3schools.com/CPP/cpp_files.asp
+// source til hvordan filer virker https://www.w3schools.com/CPP/cpp_files.asp
 
 // Implement this:
 FileLogger::FileLogger(std::string filename)
